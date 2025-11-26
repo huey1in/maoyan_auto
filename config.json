@@ -1,0 +1,28 @@
+{
+  "base_url": "https://yanchu.maoyan.com",
+  "uuid": "00000000000001EA6BA9EA3D04C15AE85F065738E854BA175985095024794050",
+  "token": "AgHSJZ3-8_OI8Caem8FRhVrDgpYhK0mw1L1SoxFAuhIv2NbItuHyl6BCXG96EQ43ANRGlElf5dgLIwAAAACRLQAAYY2k7YgDsJat08Dc4KLUa_XbHQt13ZI2yiJpxGUWQUzSxsiITuUIx7H8ou7x1LjI",
+  "cityId": 1,
+  "clientPlatform": 1,
+  "sellChannel": 5,
+  "optimus_risk_level": 71,
+  "optimus_code": 10,
+  "ax": 187450533,
+  "bx": 196395859,
+  "yodaReady": "h5",
+  "csecplatform": 4,
+  "csecversion": "4.0.4",
+  "mtgsig": {
+    "a1": "1.2",
+    "a2": 1759821349118,
+    "a3": "763z2v6x9vzu54y016vzu489uy254x84800yw341u11779588203vy9v",
+    "a5": "Sg6+kLIxk2iidGmZ5nGw5XcR4SSFVuXKgXquMblAWySJhqUt58QUbvlNyxRwwCrOAFbg6T4L0XtHcIMwNnoqQVpishhtFNMzj5SE/TMUK1UOxZ==",
+    "a6": "h1.9YUtbI+f7VkWznFC3S2zRWHxl9Q3am+jckCawh532xoxUaM/d4lL31PuaBL6CSFOEkPunn9Sdrr10OxZO9OqS74vWIbxWAybdWc3pjh9DZ0PXcHtQeBUyFNKTAJizDg+290P25HXHZ75vH7cKTfjGDtWDTd+SJQt+9AfFO38W9HzJI98EmWbsEe06OZxb4n0PDQhRklWs2CWCw989tPfhN5K2RJ1wpDXCqQxh1D3tf4Z/TbGPJcZfhYoM8T49XkQh",
+    "a8": "94efa61f700f8a9ecfe99d89967c9323",
+    "a9": "4.0.4,7,208",
+    "a10": "ec",
+    "x0": 4,
+    "d1": "4f561dd61d5fca39c50fc36f5209d7ea"
+  },
+  "project_id": 415604
+}
