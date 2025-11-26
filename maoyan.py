@@ -8,7 +8,7 @@ import os
 from urllib.parse import urlencode
 
 class MaoyanAPI:
-    """猫眼演出API客户端"""
+    """猫眼API"""
 
     def __init__(self, config_file="config.json"):
         """
@@ -164,8 +164,7 @@ class MaoyanAPI:
 
 
 def main():
-    """主函数 - 测试各个接口"""
-    print("猫眼演出API调试脚本")
+    """主函数"""
 
     # 创建API客户端
     api = MaoyanAPI()
@@ -177,10 +176,6 @@ def main():
     print(f"\n\n获取项目详情 (projectId={project_id})")
     detail = api.get_project_detail(project_id)
 
-    print("测试完成!")
-
-    # 总结
-    print("\n总结:")
     print(f"项目详情接口: {'[OK] 成功' if detail else '[FAIL] 失败'}")
 
     if detail:
